@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: none;
+  box-sizing: border-box;
+  -webkit-tap-highlight-color: transparent;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: %23040404;
+  font-family: "Open Sans", sans-serif;
+}
+
+img {
+  width: 30rem;
+  border: 15px solid #ffffff;
+
+  border-radius: 0.5rem;
+}
