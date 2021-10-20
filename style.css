@@ -20,8 +20,7 @@ body {
 }
 
 img {
-  width: 30rem;
-  border: 15px solid #ffffff;
-
+  width: 40rem;
+  border: #470202 15px solid;
   border-radius: 0.5rem;
 }
